@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace KstuProjectCsharp
+﻿namespace KstuProjectCsharp
 {
-    internal class Program
+    internal partial class Program
     {
-        static void Main(string[] args)
+        static void Variables(string[] args)
         {
             int num1 = 1;
             int numNegative = -1;
