@@ -4,7 +4,6 @@ namespace KstuProjectCsharp
     {
         static void Main(string[] args)
         {
-            Program02.GetUserInfo(args);
         }
     }
 }

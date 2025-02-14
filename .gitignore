@@ -2,3 +2,4 @@ bin
 obj
 KstuProjectCsharp2.csproj
 .idea
+main.cs
